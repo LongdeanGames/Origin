@@ -1,0 +1,1199 @@
+fileFormatVersion: 2
+guid: ebdc7b930a0c9d745b965562ee9df56f
+timeCreated: 1437218981
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Shops1
+    21300002: Shops2
+    21300004: fens1
+    21300006: fens2
+    21300008: fens3
+    21300010: Path2
+    21300012: Path1
+    21300014: Stage1_7
+    21300016: Stage1_13
+    21300018: Stage1_19
+    21300020: Stage1_28
+    21300022: Stage1_29
+    21300024: Stage1_32
+    21300026: Stage1_34
+    21300028: Stage1_35
+    21300030: Stage1_37
+    21300032: Stage1_39
+    21300034: Stage1_40
+    21300036: Stage1_42
+    21300038: Stage1_43
+    21300040: Stage1_51
+    21300042: Stage1_53
+    21300044: Stage1_56
+    21300046: Stage1_57
+    21300048: Stage1_60
+    21300050: Stage1_61
+    21300052: Stage1_66
+    21300054: Stage1_67
+    21300056: Stage1_70
+    21300058: Stage1_73
+    21300060: Stage1_78
+    21300062: Stage1_80
+    21300064: Stage1_81
+    21300066: Stage1_84
+    21300068: Stage1_87
+    21300070: Stage1_88
+    21300072: Stage1_89
+    21300074: Stage1_92
+    21300076: Stage1_97
+    21300078: Stage1_98
+    21300080: Stage1_99
+    21300082: Stage1_100
+    21300084: Stage1_101
+    21300086: Stage1_102
+    21300088: Stage1_103
+    21300090: Stage1_104
+    21300092: Stage1_105
+    21300094: Stage1_106
+    21300096: Stage1_107
+    21300098: Stage1_108
+    21300100: Stage1_109
+    21300102: Stage1_110
+    21300104: Stage1_111
+    21300106: Stage1_112
+    21300108: Stage1_113
+    21300110: Stage1_114
+    21300112: Stage1_115
+    21300114: Stage1_116
+    21300116: Stage1_117
+    21300118: Stage1_118
+    21300120: Stage1_119
+    21300122: Stage1_120
+    21300124: Stage1_121
+    21300126: Stage1_122
+    21300128: Stage1_123
+    21300130: Stage1_124
+    21300132: Stage1_125
+    21300134: Stage1_126
+    21300136: Stage1_127
+    21300138: Stage1_128
+    21300140: Stage1_129
+    21300142: Stage1_130
+    21300144: Stage1_131
+    21300146: Stage1_132
+    21300148: Stage1_133
+    21300150: Stage1_134
+    21300152: Stage1_135
+    21300154: Stage1_136
+    21300156: shopDoor1_C
+    21300158: ShopDoor1_O1
+    21300160: ShopDoor1_O2
+    21300162: ShopDoor2_CC
+    21300164: ShopDoor2_O1
+    21300166: ShopDoor2_C1
+    21300168: ShopDoor2_O2
+    21300170: ShopDoor2_OO1
+    21300172: ShopDoor2_OO2
+    21300174: ShopDoor3_C
+    21300176: ShopDoor3_O1
+    21300178: ShopDoor3_O2
+    21300180: WoodFense
+    21300182: WoodFense_B1
+    21300184: Stage1_165
+    21300186: Stage1_166
+    21300188: Stage1_167
+    21300190: Stage1_168
+    21300192: Stage1_171
+    21300194: Stage1_172
+    21300196: Stage1_178
+    21300198: Stage1_179
+    21300200: WoodFense_B2
+    21300202: WoodFense_B3
+    21300204: Stage1_184
+    21300206: WoodFense_B4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 25
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Shops1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 641
+        width: 384
+        height: 160
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shops2
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 641
+        width: 352
+        height: 160
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fens1
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 657
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fens2
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 657
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fens3
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 657
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Path2
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 545
+        width: 672
+        height: 256
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Path1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 285
+        width: 1664
+        height: 256
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_7
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 170
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_13
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 170
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_19
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 170
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_28
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 257
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_29
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 197
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_32
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 231
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_34
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 214
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_35
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 191
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_37
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 199
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_39
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 191
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_40
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 182
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_42
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 221
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_43
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 199
+        width: 13
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_51
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 253
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_53
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 185
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_56
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 128
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_57
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 226
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_60
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 207
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_61
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 219
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_66
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 227
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_67
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 173
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_70
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 211
+        width: 12
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_73
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 225
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_78
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 128
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_80
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 256
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_81
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 128
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_84
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 172
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_87
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 184
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_88
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 198
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_89
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 222
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_92
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 222
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_97
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 149
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_98
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 199
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_99
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 212
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_100
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 206
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_101
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 220
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_102
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 222
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_103
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 168
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_104
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 144
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_105
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 182
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_106
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 198
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_107
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 145
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_108
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 195
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_109
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 140
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_110
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 197
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_111
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 237
+        width: 40
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_112
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 222
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_113
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 148
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_114
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 228
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_115
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 204
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_116
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 217
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_117
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 145
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_118
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 136
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_119
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 234
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_120
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 136
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_121
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 223
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_122
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 222
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_123
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 82
+        width: 14
+        height: 175
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_124
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 246
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_125
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 89
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_126
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 245
+        width: 61
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_127
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 244
+        width: 60
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_128
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 242
+        width: 64
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_129
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 90
+        width: 64
+        height: 122
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_130
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 240
+        width: 94
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_131
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 90
+        width: 64
+        height: 122
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_132
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 237
+        width: 110
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_133
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 173
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_134
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 173
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_135
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 178
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_136
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 172
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shopDoor1_C
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 39
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShopDoor1_O1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 25
+        width: 31
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShopDoor1_O2
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 24
+        width: 33
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShopDoor2_CC
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 24
+        width: 64
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShopDoor2_O1
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 24
+        width: 64
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShopDoor2_C1
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 38
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShopDoor2_O2
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 24
+        width: 88
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShopDoor2_OO1
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 24
+        width: 64
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShopDoor2_OO2
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 24
+        width: 112
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShopDoor3_C
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 38
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShopDoor3_O1
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 25
+        width: 29
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShopDoor3_O2
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 25
+        width: 30
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodFense
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 38
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodFense_B1
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 29
+        width: 45
+        height: 81
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_165
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 3
+        width: 32
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_166
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 3
+        width: 32
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_167
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 3
+        width: 34
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_168
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 3
+        width: 44
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_171
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 14
+        width: 160
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_172
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 45
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_178
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 45
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_179
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 45
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodFense_B2
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 25
+        width: 58
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodFense_B3
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 16
+        width: 79
+        height: 109
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_184
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 14
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WoodFense_B4
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 7
+        width: 100
+        height: 113
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
