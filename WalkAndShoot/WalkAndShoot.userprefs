@@ -1,16 +1,20 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\MainGameLogic.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Standard Assets\2D\Scripts\Camera2DFollow.cs">
     <Files>
-      <File FileName="Assets\MainGameLogic.cs" Line="66" Column="3" />
-      <File FileName="Assets\Enemy.cs" Line="1" Column="1" />
-      <File FileName="Assets\Player.cs" Line="118" Column="55" />
+      <File FileName="Assets\Standard Assets\2D\Scripts\Camera2DFollow.cs" Line="32" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State expanded="True">
-          <Node name="Assembly-CSharp" expanded="True">
-            <Node name="MainGameLogic.cs" selected="True" />
+          <Node name="Assembly-CSharp-firstpass" expanded="True">
+            <Node name="Standard Assets" expanded="True">
+              <Node name="2D" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="Camera2DFollow.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
           </Node>
         </State>
       </Pad>
