@@ -1,0 +1,2662 @@
+fileFormatVersion: 2
+guid: 1cc6b6ccb1511ce40affdc7fff6db19c
+timeCreated: 1437306298
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Homer_0
+    21300002: Homer_1
+    21300004: Homer_2
+    21300006: Homer_3
+    21300008: Homer_4
+    21300010: Homer_5
+    21300012: Homer_6
+    21300014: Homer_7
+    21300016: Homer_8
+    21300018: Homer_9
+    21300020: Homer_10
+    21300022: Homer_11
+    21300024: Homer_12
+    21300026: Homer_13
+    21300028: Homer_14
+    21300030: Homer_15
+    21300032: Homer_16
+    21300034: Homer_17
+    21300036: Homer_18
+    21300038: Homer_19
+    21300040: Homer_20
+    21300042: Homer_21
+    21300044: Homer_22
+    21300046: Homer_23
+    21300048: Homer_24
+    21300050: Homer_25
+    21300052: Homer_26
+    21300054: Homer_27
+    21300056: Homer_28
+    21300058: Homer_29
+    21300060: Homer_30
+    21300062: Homer_31
+    21300064: Homer_32
+    21300066: Homer_33
+    21300068: Homer_34
+    21300070: Homer_35
+    21300072: Homer_36
+    21300074: Homer_37
+    21300076: Homer_38
+    21300078: Homer_39
+    21300080: Homer_40
+    21300082: Homer_41
+    21300084: Homer_42
+    21300086: Homer_43
+    21300088: Homer_44
+    21300090: Homer_45
+    21300092: Homer_46
+    21300094: Homer_47
+    21300096: Homer_48
+    21300098: Homer_49
+    21300100: Homer_50
+    21300102: Homer_51
+    21300104: Homer_52
+    21300106: Homer_53
+    21300108: Homer_54
+    21300110: Homer_55
+    21300112: Homer_56
+    21300114: Homer_57
+    21300116: Homer_58
+    21300118: Homer_59
+    21300120: Homer_60
+    21300122: Homer_61
+    21300124: Homer_62
+    21300126: Homer_63
+    21300128: Homer_64
+    21300130: Homer_65
+    21300132: Homer_66
+    21300134: Homer_67
+    21300136: Homer_68
+    21300138: Homer_69
+    21300140: Homer_70
+    21300142: Homer_71
+    21300144: Homer_72
+    21300146: Homer_73
+    21300148: Homer_74
+    21300150: Homer_75
+    21300152: Homer_76
+    21300154: Homer_77
+    21300156: Homer_78
+    21300158: Homer_79
+    21300160: Homer_80
+    21300162: Homer_81
+    21300164: Homer_82
+    21300166: Homer_83
+    21300168: Homer_84
+    21300170: Homer_85
+    21300172: Homer_86
+    21300174: Homer_87
+    21300176: Homer_88
+    21300178: Homer_89
+    21300180: Homer_90
+    21300182: Homer_91
+    21300184: Homer_92
+    21300186: Homer_93
+    21300188: Homer_94
+    21300190: Homer_95
+    21300192: Homer_96
+    21300194: Homer_97
+    21300196: Homer_98
+    21300198: Homer_99
+    21300200: Homer_100
+    21300202: Homer_101
+    21300204: Homer_102
+    21300206: Homer_103
+    21300208: Homer_104
+    21300210: Homer_105
+    21300212: Homer_106
+    21300214: Homer_107
+    21300216: Homer_108
+    21300218: Homer_109
+    21300220: Homer_110
+    21300222: Homer_111
+    21300224: Homer_112
+    21300226: Homer_113
+    21300228: Homer_114
+    21300230: Homer_115
+    21300232: Homer_116
+    21300234: Homer_117
+    21300236: Homer_118
+    21300238: Homer_119
+    21300240: Homer_120
+    21300242: Homer_121
+    21300244: Homer_122
+    21300246: Homer_123
+    21300248: Homer_124
+    21300250: Homer_125
+    21300252: Homer_126
+    21300254: Homer_127
+    21300256: Homer_128
+    21300258: Homer_129
+    21300260: Homer_130
+    21300262: Homer_131
+    21300264: Homer_132
+    21300266: Homer_133
+    21300268: Homer_134
+    21300270: Homer_135
+    21300272: Homer_136
+    21300274: Homer_137
+    21300276: Homer_138
+    21300278: Homer_139
+    21300280: Homer_140
+    21300282: Homer_141
+    21300284: Homer_142
+    21300286: Homer_143
+    21300288: Homer_144
+    21300290: Homer_145
+    21300292: Homer_146
+    21300294: Homer_147
+    21300296: Homer_148
+    21300298: Homer_149
+    21300300: Homer_150
+    21300302: Homer_151
+    21300304: Homer_152
+    21300306: Homer_153
+    21300308: Homer_154
+    21300310: Homer_155
+    21300312: Homer_156
+    21300314: Homer_157
+    21300316: Homer_158
+    21300318: Homer_159
+    21300320: Homer_160
+    21300322: Homer_161
+    21300324: Homer_162
+    21300326: Homer_163
+    21300328: Homer_164
+    21300330: Homer_165
+    21300332: Homer_166
+    21300334: Homer_167
+    21300336: Homer_168
+    21300338: Homer_169
+    21300340: Homer_170
+    21300342: Homer_171
+    21300344: Homer_172
+    21300346: Homer_173
+    21300348: Homer_174
+    21300350: Homer_175
+    21300352: Homer_176
+    21300354: Homer_177
+    21300356: Homer_178
+    21300358: Homer_179
+    21300360: Homer_180
+    21300362: Homer_181
+    21300364: Homer_182
+    21300366: Homer_183
+    21300368: Homer_184
+    21300370: Homer_185
+    21300372: Homer_186
+    21300374: Homer_187
+    21300376: Homer_188
+    21300378: Homer_189
+    21300380: Homer_190
+    21300382: Homer_191
+    21300384: Homer_192
+    21300386: Homer_193
+    21300388: Homer_194
+    21300390: Homer_195
+    21300392: Homer_196
+    21300394: Homer_197
+    21300396: Homer_198
+    21300398: Homer_199
+    21300400: Homer_200
+    21300402: Homer_201
+    21300404: Homer_202
+    21300406: Homer_203
+    21300408: Homer_204
+    21300410: Homer_205
+    21300412: Homer_206
+    21300414: Homer_207
+    21300416: Homer_208
+    21300418: Homer_209
+    21300420: Homer_210
+    21300422: Homer_211
+    21300424: Homer_212
+    21300426: Homer_213
+    21300428: Homer_214
+    21300430: Homer_215
+    21300432: Homer_216
+    21300434: Homer_217
+    21300436: Homer_218
+    21300438: Homer_219
+    21300440: Homer_220
+    21300442: Homer_221
+    21300444: Homer_222
+    21300446: Homer_223
+    21300448: Homer_224
+    21300450: Homer_225
+    21300452: Homer_226
+    21300454: Homer_227
+    21300456: Homer_228
+    21300458: Homer_229
+    21300460: Homer_230
+    21300462: Homer_231
+    21300464: Homer_232
+    21300466: Homer_233
+    21300468: Homer_234
+    21300470: Homer_235
+    21300472: Homer_236
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 25
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Homer_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1700
+        width: 25
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1700
+        width: 28
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_2
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1700
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_3
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1702
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_4
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1702
+        width: 24
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_5
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1702
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_6
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1701
+        width: 33
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_7
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1701
+        width: 24
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_8
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1701
+        width: 24
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_9
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1701
+        width: 29
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1701
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_11
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 1702
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_12
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1703
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_13
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1702
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_14
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 1701
+        width: 27
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_15
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1701
+        width: 27
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_16
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1702
+        width: 29
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_17
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1621
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_18
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1621
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_19
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1621
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_20
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1632
+        width: 63
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_21
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1628
+        width: 54
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_22
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1627
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_23
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1624
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_24
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1541
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_25
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1541
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_26
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1541
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_27
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1541
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_28
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1541
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_29
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1541
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_30
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1541
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_31
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1541
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_32
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1541
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_33
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1541
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_34
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1541
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_35
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1541
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_36
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1465
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_37
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1465
+        width: 53
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_38
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1465
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_39
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1465
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_40
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1465
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_41
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1465
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_42
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1465
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_43
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1383
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_44
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1385
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_45
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1383
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_46
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1385
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_47
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1380
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_48
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1437
+        width: 87
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_49
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1437
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_50
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1374
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_51
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1437
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_52
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1374
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_53
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1437
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_54
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1374
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_55
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1374
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_56
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1374
+        width: 29
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_57
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1296
+        width: 31
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_58
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1297
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_59
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1297
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_60
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1302
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_61
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1301
+        width: 56
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_62
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1294
+        width: 60
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_63
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1293
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_64
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1291
+        width: 52
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_65
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1292
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_66
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1293
+        width: 52
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_67
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1296
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_68
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 1297
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_69
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 1320
+        width: 64
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_70
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 1289
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_71
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1206
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_72
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1206
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_73
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1206
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_74
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1207
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_75
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1207
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_76
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1207
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_77
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1212
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_78
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1213
+        width: 63
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_79
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1212
+        width: 60
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_80
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1212
+        width: 64
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_81
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1212
+        width: 57
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_82
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 1212
+        width: 52
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_83
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1212
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_84
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1125
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_85
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1126
+        width: 31
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_86
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1121
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_87
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1121
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_88
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1121
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_89
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1121
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_90
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1121
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_91
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1121
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_92
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1120
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_93
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 1184
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_94
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1122
+        width: 45
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_95
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1122
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_96
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1120
+        width: 59
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_97
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1120
+        width: 76
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_98
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1034
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_99
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1033
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_100
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1033
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_101
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1034
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_102
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1034
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_103
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1034
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_104
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1032
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_105
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1032
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_106
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1032
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_107
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1032
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_108
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1031
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_109
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1033
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_110
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1044
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_111
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1044
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_112
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1045
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_113
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1045
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_114
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 941
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_115
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 941
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_116
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 941
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_117
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 941
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_118
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 941
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_119
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 941
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_120
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 941
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_121
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 941
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_122
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 941
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_123
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 941
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_124
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 956
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_125
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 956
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_126
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 954
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_127
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 957
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_128
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 852
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_129
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 852
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_130
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 852
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_131
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 853
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_132
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 853
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_133
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 853
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_134
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 852
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_135
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 852
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_136
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 852
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_137
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 849
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_138
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 849
+        width: 73
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_139
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 849
+        width: 65
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_140
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 770
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_141
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 771
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_142
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 770
+        width: 59
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_143
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 770
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_144
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 770
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_145
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 673
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_146
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 673
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_147
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 673
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_148
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 674
+        width: 37
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_149
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 674
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_150
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 674
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_151
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 673
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_152
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 673
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_153
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 673
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_154
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 673
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_155
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 673
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_156
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 717
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_157
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 692
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_158
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 692
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_159
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 692
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_160
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 692
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_161
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 581
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_162
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 581
+        width: 28
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_163
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 581
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_164
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 582
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_165
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 582
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_166
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 582
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_167
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 581
+        width: 33
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_168
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 581
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_169
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 581
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_170
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 587
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_171
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 587
+        width: 30
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_172
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 587
+        width: 29
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_173
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 499
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_174
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 499
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_175
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 499
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_176
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 499
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_177
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 499
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_178
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 499
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_179
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 499
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_180
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 501
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_181
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 499
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_182
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 417
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_183
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 417
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_184
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 417
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_185
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 417
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_186
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 417
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_187
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 417
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_188
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 417
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_189
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 417
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_190
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 417
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_191
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 331
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_192
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 331
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_193
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 331
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_194
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 331
+        width: 76
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_195
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 332
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_196
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 332
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_197
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 330
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_198
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 330
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_199
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 330
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_200
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 330
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_201
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 225
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_202
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 226
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_203
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 219
+        width: 80
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_204
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 219
+        width: 80
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_205
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 219
+        width: 80
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_206
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 219
+        width: 80
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_207
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 218
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_208
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 219
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_209
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 227
+        width: 30
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_210
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 227
+        width: 31
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_211
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 227
+        width: 30
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_212
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 227
+        width: 31
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_213
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 114
+        width: 95
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_214
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 178
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_215
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 160
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_216
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 158
+        width: 53
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_217
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 159
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_218
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 157
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_219
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 158
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_220
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 159
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_221
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 160
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_222
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 175
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_223
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 114
+        width: 25
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_224
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 45
+        width: 61
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_225
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 45
+        width: 61
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_226
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 45
+        width: 61
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_227
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 45
+        width: 61
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_228
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 112
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_229
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 112
+        width: 39
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_230
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 114
+        width: 27
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_231
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 32
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_232
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 32
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_233
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 32
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_234
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 51
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_235
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 24
+        width: 294
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Homer_236
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 9
+        width: 72
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

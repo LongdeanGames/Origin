@@ -11,6 +11,10 @@ namespace UnityStandardAssets._2D
         public float lookAheadReturnSpeed = 0.5f;
         public float lookAheadMoveThreshold = 0.1f;
 
+		//Camera Limits
+		public Vector2 maxXY = new Vector2 (20f,0f);
+		public Vector2 minXY = new Vector2 (-2f,-1.7f);
+
         private float m_OffsetZ;
         private Vector3 m_LastTargetPosition;
         private Vector3 m_CurrentVelocity;
@@ -28,35 +32,27 @@ namespace UnityStandardAssets._2D
         // Update is called once per frame
         private void Update()
         {
-			Debug.Log ("x"+m_LastTargetPosition.x);
-			Debug.Log ("y"+m_LastTargetPosition.y);
-			Debug.Log ("z"+m_LastTargetPosition.z);
             // only update lookahead pos if accelerating or changed direction
 			//The amount of movement.
             
-			    Vector3 targetPosition = new Vector3 (target.position.x,target.position.y,target.position.z);
-				
-			if (targetPosition.y < -1.7f && targetPosition.x < -2f  ) {
-				Debug.Log ("Too Far!");
-				targetPosition = new Vector3 (m_LastTargetPosition.x,m_LastTargetPosition.y,target.position.z);
-			} 
-			else if (targetPosition.y > 0f && targetPosition.x > -2f ) {
-				Debug.Log ("Too Far!");
-				targetPosition = new Vector3 (m_LastTargetPosition.x,m_LastTargetPosition.y,target.position.z);
-			} 
-			else if (targetPosition.x < -2f) {
-			Debug.Log ("Too Far!");
-				targetPosition = new Vector3 (m_LastTargetPosition.x,target.position.y,target.position.z);
-			} 
-		 	//Edge of map
-			else if (targetPosition.y < -1.7f) {
-			Debug.Log ("Too Far!");
-			targetPosition = new Vector3 (target.position.x,m_LastTargetPosition.y,target.position.z);
-			} 
-			else if (targetPosition.y > 0f) {
-				Debug.Log ("Too Far!");
-				targetPosition = new Vector3 (target.position.x,m_LastTargetPosition.y,target.position.z);
-			} 
+			Vector3 targetPosition = new Vector3 (target.position.x,target.position.y,target.position.z);    
+			float newXPos = target.position.x;
+			float newYPos = target.position.y;
+
+			if (targetPosition.x >= maxXY.x) {
+				newXPos = maxXY.x;
+			}
+			if (targetPosition.x <= minXY.x) {
+				newXPos = minXY.x;
+			}
+			if (targetPosition.y >= maxXY.y) {
+				newYPos = maxXY.y;
+			}
+			if (targetPosition.y <= minXY.y) {
+				newYPos = minXY.y;
+			}
+
+			targetPosition = new Vector3 (newXPos,newYPos,target.position.z);  
 
 
 		    float xMoveDelta = (targetPosition - m_LastTargetPosition).x;

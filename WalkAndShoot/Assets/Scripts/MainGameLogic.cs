@@ -11,6 +11,8 @@ public class MainGameLogic : MonoBehaviour {
 	public Transform player1Location;
 	public Player p;
 
+	public float levelEnd = 100f;
+	public float topBoundary;
 
 	Sprite backgroundSprite;
 	Sprite playerSprite;
@@ -37,8 +39,11 @@ public class MainGameLogic : MonoBehaviour {
 	}
 
 	private void createLevelBoundaries(){
+
+		Debug.Log (Screen.height);
+
 		topWall.size = new Vector2 (mainCam.ScreenToWorldPoint (new Vector3 (Screen.width * 2f, 0f, 0f)).x, 1f);
-		topWall.offset = new Vector2 (0f, mainCam.ScreenToWorldPoint (new Vector3 ( 0f, Screen.height, 0f)).y + 0.5f);
+		topWall.offset = new Vector2 (0f, mainCam.ScreenToWorldPoint (new Vector3 ( 0f, topBoundary, 0f)).y + 0.5f);
 		
 		bottomWall.size = new Vector2 (mainCam.ScreenToWorldPoint (new Vector3 (Screen.width * 2, 0f, 0f)).x, 1f);
 		bottomWall.offset = new Vector2 (0f, mainCam.ScreenToWorldPoint (new Vector3( 0f, 0f, 0f)).y - 0.5f);
@@ -73,6 +78,7 @@ public class MainGameLogic : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 
+		//If event "next zone" setBondaries to next area.
 
 
 	

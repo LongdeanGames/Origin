@@ -28,6 +28,17 @@ public class Player : MonoBehaviour {
 	float health;
 	float speed;
 
+	bool facingRight = true;
+
+	void flip()
+	{
+		facingRight = !facingRight;
+		Vector3 theScale = transform.localScale;
+		theScale.x *= -1;
+		transform.localScale = theScale;
+	}
+
+
 	// Use this for initialization
 	void Start () {
 		rb2d = GetComponent<Rigidbody2D>();
@@ -42,12 +53,16 @@ public class Player : MonoBehaviour {
 
 		if (Input.GetKey (moveN) && Input.GetKey (moveE)) {
 			rb2d.velocity = new Vector2 (1, 1) * playerSpeed;
+			if(!facingRight) flip ();
 		} else if (Input.GetKey (moveN) && Input.GetKey (moveW)) {
 			rb2d.velocity = new Vector2 (-1, 1) * playerSpeed;
+			if(facingRight) flip ();
 		} else if (Input.GetKey (moveS) && Input.GetKey (moveE)) {
 			rb2d.velocity = new Vector2 (1, -1) * playerSpeed;
+			if(!facingRight) flip ();
 		} else if (Input.GetKey (moveS) && Input.GetKey (moveW)) {
 			rb2d.velocity = new Vector2 (-1, -1) * playerSpeed;
+			if(facingRight) flip ();
 		} 
 		  else if (Input.GetKey (moveN)) {
 			rb2d.velocity = Vector2.up * playerSpeed;
@@ -55,8 +70,10 @@ public class Player : MonoBehaviour {
 			rb2d.velocity = Vector2.down * playerSpeed;
 		} else if (Input.GetKey (moveE)) {
 			rb2d.velocity = Vector2.right * playerSpeed;
+			if(!facingRight) flip ();
 		} else if (Input.GetKey (moveW)) {
 			rb2d.velocity = Vector2.left * playerSpeed;
+			if(facingRight) flip ();
 		} 
 		else if (Input.GetKey (strafeL)){
 		  strafing = true;
@@ -127,11 +144,15 @@ public class Player : MonoBehaviour {
 		else {
 			rb2d.velocity = Vector2.zero;		
 		}
+		//Object rotation .. Not for platform game. Maybe for topDown versions.
+		/*
 		if (rb2d.velocity != Vector2.zero && !strafing) {
-			float angle = Mathf.Atan2(rb2d.velocity.x, rb2d.velocity.y) * Mathf.Rad2Deg;
+			float angle = Mathf.Round(Mathf.Atan2(rb2d.velocity.x, rb2d.velocity.y) * Mathf.Rad2Deg);
 			transform.rotation = Quaternion.AngleAxis(angle, Vector3.back);
 		}
-		//Debug.Log("Current rotation z: "+transform.eulerAngles.z);
+		*/
+
+
 
 	}
 
