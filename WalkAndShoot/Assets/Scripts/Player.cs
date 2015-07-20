@@ -14,6 +14,8 @@ public class Player : MonoBehaviour {
 
 	//Rigidbody2D
 	Rigidbody2D rb2d;
+	//Animator
+	Animator m_Anim;
 
 	//Speed
 
@@ -30,6 +32,13 @@ public class Player : MonoBehaviour {
 
 	bool facingRight = true;
 
+	private void Awake()
+	{
+	
+		m_Anim = GetComponent<Animator>();
+		rb2d = GetComponent<Rigidbody2D>();
+	}
+
 	void flip()
 	{
 		facingRight = !facingRight;
@@ -41,7 +50,7 @@ public class Player : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		rb2d = GetComponent<Rigidbody2D>();
+
 	} 
 	
 	// Update is called once per frame
@@ -142,7 +151,13 @@ public class Player : MonoBehaviour {
 
 
 		else {
-			rb2d.velocity = Vector2.zero;		
+			rb2d.velocity = Vector2.zero;
+		}
+		if (rb2d.velocity != Vector2.zero) {
+			m_Anim.SetFloat ("Speed", 1f);
+		
+		} else {
+			m_Anim.SetFloat("Speed", 0f);
 		}
 		//Object rotation .. Not for platform game. Maybe for topDown versions.
 		/*
