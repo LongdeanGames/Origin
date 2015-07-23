@@ -1,0 +1,4092 @@
+fileFormatVersion: 2
+guid: 20c0b0cf2a26a094b9f91c348b75c3d9
+timeCreated: 1437497982
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Bart_6
+    21300002: Bart_7
+    21300004: Bart_8
+    21300006: Bart_9
+    21300008: Bart_10
+    21300010: Bart_11
+    21300012: Bart_12
+    21300014: Bart_13
+    21300016: Bart_14
+    21300018: Bart_15
+    21300020: Bart_16
+    21300022: Bart_17
+    21300024: Bart_18
+    21300026: Bart_19
+    21300028: Bart_20
+    21300030: Bart_21
+    21300032: Bart_22
+    21300034: Bart_23
+    21300036: Bart_30
+    21300038: Bart_31
+    21300040: Bart_32
+    21300042: Bart_33
+    21300044: Bart_34
+    21300046: Bart_35
+    21300048: Bart_36
+    21300050: Bart_37
+    21300052: Bart_38
+    21300054: Bart_39
+    21300056: Bart_40
+    21300058: Bart_41
+    21300060: Bart_42
+    21300062: Bart_43
+    21300064: Bart_46
+    21300066: Bart_47
+    21300068: Bart_48
+    21300070: Bart_49
+    21300072: Bart_50
+    21300074: Bart_51
+    21300076: Bart_52
+    21300078: Bart_53
+    21300080: Bart_54
+    21300082: Bart_55
+    21300084: Bart_56
+    21300086: Bart_57
+    21300088: Bart_58
+    21300090: Bart_59
+    21300092: Bart_73
+    21300094: Bart_74
+    21300096: Bart_75
+    21300098: Bart_76
+    21300100: Bart_77
+    21300102: Bart_78
+    21300104: Bart_79
+    21300106: Bart_80
+    21300108: Bart_81
+    21300110: Bart_82
+    21300112: Bart_83
+    21300114: Bart_84
+    21300116: Bart_85
+    21300118: Bart_86
+    21300120: Bart_87
+    21300122: Bart_95
+    21300124: Bart_96
+    21300126: Bart_97
+    21300128: Bart_98
+    21300130: Bart_99
+    21300132: Bart_100
+    21300134: Bart_101
+    21300136: Bart_102
+    21300138: Bart_103
+    21300140: Bart_104
+    21300142: Bart_105
+    21300144: Bart_106
+    21300146: Bart_107
+    21300148: Bart_108
+    21300150: Bart_109
+    21300152: Bart_110
+    21300154: Bart_111
+    21300156: Bart_119
+    21300158: Bart_120
+    21300160: Bart_121
+    21300162: Bart_122
+    21300164: Bart_123
+    21300166: Bart_124
+    21300168: Bart_125
+    21300170: Bart_126
+    21300172: Bart_127
+    21300174: Bart_128
+    21300176: Bart_129
+    21300178: Bart_130
+    21300180: Bart_131
+    21300182: Bart_132
+    21300184: Bart_133
+    21300186: Bart_134
+    21300188: Bart_138
+    21300190: Bart_141
+    21300192: Bart_142
+    21300194: Bart_143
+    21300196: Bart_144
+    21300198: Bart_145
+    21300200: Bart_146
+    21300202: Bart_147
+    21300204: Bart_148
+    21300206: Bart_149
+    21300208: Bart_150
+    21300210: Bart_151
+    21300212: Bart_152
+    21300214: Bart_157
+    21300216: Bart_158
+    21300218: Bart_159
+    21300220: Bart_160
+    21300222: Bart_161
+    21300224: Bart_162
+    21300226: Bart_163
+    21300228: Bart_164
+    21300230: Bart_165
+    21300232: Bart_166
+    21300234: Bart_167
+    21300236: Bart_168
+    21300238: Bart_171
+    21300240: Bart_172
+    21300242: Bart_173
+    21300244: Bart_174
+    21300246: Bart_175
+    21300248: Bart_176
+    21300250: Bart_177
+    21300252: Bart_178
+    21300254: Bart_179
+    21300256: Bart_180
+    21300258: Bart_181
+    21300260: Bart_182
+    21300262: Bart_183
+    21300264: Bart_184
+    21300266: Bart_185
+    21300268: Bart_186
+    21300270: Bart_193
+    21300272: Bart_194
+    21300274: Bart_195
+    21300276: Bart_196
+    21300278: Bart_197
+    21300280: Bart_198
+    21300282: Bart_199
+    21300284: Bart_200
+    21300286: Bart_201
+    21300288: Bart_202
+    21300290: Bart_203
+    21300292: Bart_204
+    21300294: Bart_205
+    21300296: Bart_206
+    21300298: Bart_207
+    21300300: Bart_208
+    21300302: Bart_209
+    21300304: Bart_210
+    21300306: Bart_219
+    21300308: Bart_220
+    21300310: Bart_221
+    21300312: Bart_222
+    21300314: Bart_223
+    21300316: Bart_224
+    21300318: Bart_225
+    21300320: Bart_226
+    21300322: Bart_227
+    21300324: Bart_228
+    21300326: Bart_229
+    21300328: Bart_230
+    21300330: Bart_231
+    21300332: Bart_232
+    21300334: Bart_233
+    21300336: Bart_234
+    21300338: Bart_242
+    21300340: Bart_243
+    21300342: Bart_244
+    21300344: Bart_245
+    21300346: Bart_246
+    21300348: Bart_247
+    21300350: Bart_248
+    21300352: Bart_249
+    21300354: Bart_250
+    21300356: Bart_251
+    21300358: Bart_252
+    21300360: Bart_253
+    21300362: Bart_254
+    21300364: Bart_259
+    21300366: Bart_260
+    21300368: Bart_261
+    21300370: Bart_262
+    21300372: Bart_263
+    21300374: Bart_264
+    21300376: Bart_265
+    21300378: Bart_271
+    21300380: Bart_272
+    21300382: Bart_273
+    21300384: Bart_274
+    21300386: Bart_275
+    21300388: Bart_276
+    21300390: Bart_277
+    21300392: Bart_278
+    21300394: Bart_279
+    21300396: Bart_280
+    21300398: Bart_281
+    21300400: Bart_282
+    21300402: Bart_283
+    21300404: Bart_284
+    21300406: Bart_285
+    21300408: Bart_286
+    21300410: Bart_287
+    21300412: Bart_288
+    21300414: Bart_289
+    21300416: Bart_290
+    21300418: Bart_291
+    21300420: Bart_292
+    21300422: Bart_295
+    21300424: Bart_298
+    21300426: Bart_299
+    21300428: Bart_300
+    21300430: Bart_301
+    21300432: Bart_302
+    21300434: Bart_303
+    21300436: Bart_304
+    21300438: Bart_305
+    21300440: Bart_306
+    21300442: Bart_307
+    21300444: Bart_308
+    21300446: Bart_309
+    21300448: Bart_313
+    21300450: Bart_316
+    21300452: Bart_317
+    21300454: Bart_319
+    21300456: Bart_322
+    21300458: Bart_323
+    21300460: Bart_324
+    21300462: Bart_325
+    21300464: Bart_326
+    21300466: Bart_327
+    21300468: Bart_328
+    21300470: Bart_329
+    21300472: Bart_330
+    21300474: Bart_331
+    21300476: Bart_332
+    21300478: Bart_333
+    21300480: Bart_338
+    21300482: Bart_339
+    21300484: Bart_340
+    21300486: Bart_341
+    21300488: Bart_342
+    21300490: Bart_343
+    21300492: Bart_344
+    21300494: Bart_345
+    21300496: Bart_346
+    21300498: Bart_354
+    21300500: Bart_355
+    21300502: Bart_356
+    21300504: Bart_357
+    21300506: Bart_358
+    21300508: Bart_359
+    21300510: Bart_360
+    21300512: Bart_361
+    21300514: Bart_362
+    21300516: Bart_363
+    21300518: Bart_364
+    21300520: Bart_365
+    21300522: Bart_366
+    21300524: Bart_367
+    21300526: Bart_368
+    21300528: Bart_369
+    21300530: Bart_372
+    21300532: Bart_373
+    21300534: Bart_374
+    21300536: Bart_375
+    21300538: Bart_376
+    21300540: Bart_377
+    21300542: Bart_378
+    21300544: Bart_385
+    21300546: Bart_386
+    21300548: Bart_387
+    21300550: Bart_388
+    21300552: Bart_389
+    21300554: Bart_390
+    21300556: Bart_391
+    21300558: Bart_392
+    21300560: Bart_393
+    21300562: Bart_394
+    21300564: Bart_395
+    21300566: Bart_396
+    21300568: Bart_397
+    21300570: Bart_407
+    21300572: Bart_408
+    21300574: Bart_409
+    21300576: Bart_410
+    21300578: Bart_411
+    21300580: Bart_412
+    21300582: Bart_413
+    21300584: Bart_414
+    21300586: Bart_415
+    21300588: Bart_416
+    21300590: Bart_417
+    21300592: Bart_418
+    21300594: Bart_419
+    21300596: Bart_420
+    21300598: Bart_421
+    21300600: Bart_422
+    21300602: Bart_423
+    21300604: Bart_425
+    21300606: Bart_426
+    21300608: Bart_427
+    21300610: Bart_428
+    21300612: Bart_429
+    21300614: Bart_430
+    21300616: Bart_431
+    21300618: Bart_440
+    21300620: Bart_443
+    21300622: Bart_444
+    21300624: Bart_445
+    21300626: Bart_446
+    21300628: Bart_447
+    21300630: Bart_448
+    21300632: Bart_449
+    21300634: Bart_450
+    21300636: Bart_451
+    21300638: Bart_452
+    21300640: Bart_453
+    21300642: Bart_454
+    21300644: Bart_455
+    21300646: Bart_456
+    21300648: Bart_457
+    21300650: Bart_458
+    21300652: Bart_459
+    21300654: Bart_460
+    21300656: Bart_461
+    21300658: Bart_462
+    21300660: Bart_463
+    21300662: Bart_464
+    21300664: Bart_465
+    21300666: Bart_466
+    21300668: Bart_467
+    21300670: Bart_468
+    21300672: Bart_469
+    21300674: Bart_470
+    21300676: Bart_472
+    21300678: Bart_473
+    21300680: Bart_474
+    21300682: Bart_475
+    21300684: Bart_476
+    21300686: Bart_477
+    21300688: Bart_478
+    21300690: Bart_479
+    21300692: Bart_480
+    21300694: Bart_481
+    21300696: Bart_482
+    21300698: Bart_483
+    21300700: Bart_484
+    21300702: Bart_485
+    21300704: Bart_486
+    21300706: Bart_487
+    21300708: Bart_488
+    21300710: Bart_489
+    21300712: Bart_490
+    21300714: Bart_491
+    21300716: Bart_492
+    21300718: Bart_493
+    21300720: Bart_494
+    21300722: Bart_495
+    21300724: Bart_496
+    21300726: Bart_497
+    21300728: Bart_498
+    21300730: Bart_499
+    21300732: Bart_500
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 25
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Bart_6
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2309
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_7
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2309
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_8
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 2309
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_9
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 2309
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_10
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 2320
+        width: 85
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_11
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 2308
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_12
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 2308
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_13
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 2308
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_14
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 2306
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_15
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 2309
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2308
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_17
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 2308
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_18
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 2308
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_19
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 2309
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_20
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 2309
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_21
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 2306
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_22
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 2308
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_23
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 2306
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_30
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2228
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_31
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 2228
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_32
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 2228
+        width: 58
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_33
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 2227
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_34
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 2227
+        width: 68
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_35
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 2227
+        width: 67
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_36
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2226
+        width: 67
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_37
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 2232
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_38
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 2233
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_39
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 2235
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_40
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 2235
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_41
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 2235
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_42
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2234
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_43
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 2232
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_46
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 2214
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_47
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 2161
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_48
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 2151
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_49
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2160
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_50
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 2160
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_51
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 2155
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_52
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 2159
+        width: 81
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_53
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 2159
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_54
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 2164
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_55
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 2162
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_56
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 2162
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_57
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 2161
+        width: 55
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_58
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 2156
+        width: 80
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_59
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2153
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_73
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2073
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_74
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 2071
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_75
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 2067
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_76
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 2070
+        width: 67
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_77
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 2068
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_78
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 2069
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_79
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 2069
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_80
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 2069
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_81
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 2069
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_82
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 2069
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_83
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 2069
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_84
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 2067
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_85
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 2066
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_86
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 2066
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_87
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 2066
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_95
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1980
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_96
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1980
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_97
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1980
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_98
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1980
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_99
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1980
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_100
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1981
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_101
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1980
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_102
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1980
+        width: 52
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_103
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1979
+        width: 52
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_104
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1980
+        width: 53
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_105
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1980
+        width: 52
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_106
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1980
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_107
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1980
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_108
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1991
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_109
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1991
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_110
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1991
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_111
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1974
+        width: 39
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_119
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1900
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_120
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1900
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_121
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1900
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_122
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1900
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_123
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1900
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_124
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1900
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_125
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1901
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_126
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1902
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_127
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1901
+        width: 56
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_128
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1901
+        width: 57
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_129
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1901
+        width: 52
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_130
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1900
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_131
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1900
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_132
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1899
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_133
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1899
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_134
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1897
+        width: 29
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_138
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1870
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_141
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1809
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_142
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1811
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_143
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1811
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_144
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1811
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_145
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1811
+        width: 67
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_146
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1811
+        width: 66
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_147
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1810
+        width: 69
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_148
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1811
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_149
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1811
+        width: 66
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_150
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1811
+        width: 76
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_151
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1811
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_152
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1813
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_157
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1726
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_158
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1726
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_159
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1726
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_160
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1726
+        width: 82
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_161
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1728
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_162
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1729
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_163
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1725
+        width: 59
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_164
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1725
+        width: 76
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_165
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1732
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_166
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1732
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_167
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1730
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_168
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 1732
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_171
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1705
+        width: 36
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_172
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1707
+        width: 42
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_173
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1640
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_174
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1640
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_175
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1641
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_176
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1641
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_177
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1640
+        width: 62
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_178
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1641
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_179
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1641
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_180
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1640
+        width: 69
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_181
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1641
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_182
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1645
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_183
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1640
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_184
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1645
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_185
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1645
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_186
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1644
+        width: 80
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_193
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1620
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_194
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1552
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_195
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1555
+        width: 71
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_196
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1554
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_197
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1549
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_198
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1549
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_199
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1549
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_200
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1549
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_201
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1549
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_202
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1551
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_203
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1549
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_204
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1549
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_205
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1549
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_206
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1551
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_207
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1549
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_208
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1551
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_209
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1551
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_210
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1551
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_219
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 1379
+        width: 156
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_220
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1457
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_221
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1457
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_222
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1456
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_223
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1456
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_224
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1457
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_225
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1457
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_226
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1456
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_227
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1457
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_228
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1457
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_229
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1457
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_230
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1457
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_231
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1461
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_232
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1457
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_233
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1457
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_234
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1454
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_242
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1364
+        width: 39
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_243
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1362
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_244
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1362
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_245
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1362
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_246
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1362
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_247
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1361
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_248
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1363
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_249
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1362
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_250
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1362
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_251
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1363
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_252
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1364
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_253
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1358
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_254
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1364
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_259
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1331
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_260
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1331
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_261
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1335
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_262
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1333
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_263
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1336
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_264
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1337
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_265
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1329
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_271
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1331
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_272
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1332
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_273
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1334
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_274
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1319
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_275
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1286
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_276
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1329
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_277
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1287
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_278
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 1276
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_279
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1276
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_280
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1278
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_281
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1278
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_282
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1278
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_283
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1278
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_284
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1278
+        width: 54
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_285
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1300
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_286
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1293
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_287
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1298
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_288
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1285
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_289
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1298
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_290
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1284
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_291
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1283
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_292
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 1280
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_295
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1192
+        width: 50
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_298
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1192
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_299
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1192
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_300
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1208
+        width: 109
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_301
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1195
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_302
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1195
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_303
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1195
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_304
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1195
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_305
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1195
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_306
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1195
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_307
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1209
+        width: 93
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_308
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1190
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_309
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 1190
+        width: 57
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_313
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1175
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_316
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1173
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_317
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1174
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_319
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1072
+        width: 40
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_322
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1072
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_323
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1072
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_324
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1072
+        width: 50
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_325
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1072
+        width: 37
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_326
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1072
+        width: 39
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_327
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1072
+        width: 44
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_328
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1072
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_329
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1072
+        width: 36
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_330
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1072
+        width: 38
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_331
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1072
+        width: 45
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_332
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1072
+        width: 36
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_333
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1072
+        width: 37
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_338
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 970
+        width: 40
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_339
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 970
+        width: 40
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_340
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 969
+        width: 52
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_341
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 969
+        width: 48
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_342
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 969
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_343
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 971
+        width: 61
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_344
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 976
+        width: 61
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_345
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 976
+        width: 81
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_346
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 997
+        width: 83
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_354
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 930
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_355
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 829
+        width: 56
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_356
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 829
+        width: 55
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_357
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 829
+        width: 55
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_358
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 829
+        width: 46
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_359
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 829
+        width: 41
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_360
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 829
+        width: 40
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_361
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 829
+        width: 42
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_362
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 829
+        width: 51
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_363
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 829
+        width: 47
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_364
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 829
+        width: 41
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_365
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 829
+        width: 42
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_366
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 829
+        width: 50
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_367
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 829
+        width: 48
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_368
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 830
+        width: 43
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_369
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 834
+        width: 46
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_372
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 714
+        width: 51
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_373
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 714
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_374
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 713
+        width: 41
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_375
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 713
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_376
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 727
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_377
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 727
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_378
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 742
+        width: 110
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_385
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 689
+        width: 36
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_386
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 629
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_387
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 633
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_388
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 633
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_389
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 633
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_390
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 633
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_391
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 633
+        width: 63
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_392
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 633
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_393
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 633
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_394
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 632
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_395
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 632
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_396
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 650
+        width: 82
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_397
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 650
+        width: 83
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_407
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 537
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_408
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 537
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_409
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 537
+        width: 39
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_410
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 537
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_411
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 537
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_412
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 533
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_413
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 536
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_414
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 536
+        width: 22
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_415
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 535
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_416
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 536
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_417
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 535
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_418
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 535
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_419
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 579
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_420
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 579
+        width: 57
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_421
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 579
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_422
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 579
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_423
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 549
+        width: 66
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_425
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 564
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_426
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 562
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_427
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 561
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_428
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 526
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_429
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 526
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_430
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 515
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_431
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 525
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_440
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 515
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_443
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 445
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_444
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 445
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_445
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 445
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_446
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 445
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_447
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 454
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_448
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 445
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_449
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 445
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_450
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 444
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_451
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 444
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_452
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 442
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_453
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 444
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_454
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 444
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_455
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 444
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_456
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 444
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_457
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 452
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_458
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 436
+        width: 74
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_459
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 433
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_460
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 417
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_461
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 417
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_462
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 417
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_463
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 417
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_464
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 413
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_465
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 413
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_466
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 410
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_467
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 409
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_468
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 204
+        width: 292
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_469
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 416
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_470
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 416
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_472
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 326
+        width: 67
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_473
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 268
+        width: 73
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_474
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 268
+        width: 74
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_475
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 339
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_476
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 201
+        width: 150
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_477
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 224
+        width: 75
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_478
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 211
+        width: 83
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_479
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 215
+        width: 132
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_480
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 86
+        width: 72
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_481
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 196
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_482
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 196
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_483
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 204
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_484
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 194
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_485
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 194
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_486
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 194
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_487
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 95
+        width: 67
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_488
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 90
+        width: 98
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_489
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 87
+        width: 118
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_490
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 161
+        width: 57
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_491
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 107
+        width: 59
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_492
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 107
+        width: 63
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_493
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 107
+        width: 66
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_494
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 105
+        width: 59
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_495
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 123
+        width: 57
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_496
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 110
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_497
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 84
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_498
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 84
+        width: 57
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_499
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 84
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bart_500
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 83
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
