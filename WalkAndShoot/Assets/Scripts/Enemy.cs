@@ -24,6 +24,8 @@ public class Enemy : MonoBehaviour
 	bool isHit = false;
 	//Dead
 	bool isDead = false;
+	//Can Attack
+	bool canAttack = false;
 
 
 	bool facingRight = true;
@@ -52,7 +54,7 @@ public class Enemy : MonoBehaviour
 
 	IEnumerator die(string hitAnim)
 	{
-		
+		canAttack = false;
 		float time = 0f;
 		RuntimeAnimatorController ac = m_Anim.runtimeAnimatorController;    //Get Animator controller
 		for(int i = 0; i<ac.animationClips.Length; i++)                 //For all animations
@@ -72,6 +74,7 @@ public class Enemy : MonoBehaviour
 	IEnumerator hitAnimation1(string hitAnim)
 	{
 
+		canAttack = false;
 		float time = 0f;
 		RuntimeAnimatorController ac = m_Anim.runtimeAnimatorController;    //Get Animator controller
 		for(int i = 0; i<ac.animationClips.Length; i++)                 //For all animations
@@ -99,6 +102,7 @@ public class Enemy : MonoBehaviour
 		if (_inCombat) {
 			rb2d.velocity = Vector2.zero;
 			isMoving = false;
+			canAttack = true;
 			return;
 		}
 		Vector3 directionToPlayer = targetPlayer.position - transform.position;	
@@ -144,6 +148,7 @@ public class Enemy : MonoBehaviour
 		m_Anim.SetBool("Walk", isMoving);
 		m_Anim.SetBool("Hit", isHit);
 		m_Anim.SetBool("Die", isDead);
+		m_Anim.SetBool("Attack", canAttack);
 	
 	}
 
